@@ -1,0 +1,10 @@
+<ConnectionInformation>
+	<DBName>GX_KB_kbTestGi</DBName>
+	<IntegratedSecurity>True</IntegratedSecurity>
+	<ServerInstance>THIAGO-DESKTOP\SQLEXPRESS2K16</ServerInstance>
+	<CreateDbInKbFolder>True</CreateDbInKbFolder>
+	<Directory>C:\Models\kbTestGi</Directory>
+	<DataFile>GX_KB_kbTestGi.mdf</DataFile>
+	<LogFile>GX_KB_kbTestGi_log.ldf</LogFile>
+	<HostName>THIAGO-DESKTOP</HostName>
+</ConnectionInformation>

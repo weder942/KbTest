@@ -1,0 +1,18 @@
+current_obj_i(2,trn,1).
+ 
+called_tree_i(0,1,13,1).
+called_tree_i(0,1,13,7).
+ 
+ 
+ 
+ 
+ 
+ 
+ij_object_dependency(tgittest,[ tgittest__default ],[ tgittest_impl ],[ 'GxWebStd' ],1).
+ 
+ 
+ 
+ 
+ 
+ 
+ 

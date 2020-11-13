@@ -1,0 +1,6 @@
+called_program_i(0,1,13,1).
+called_program_i(0,1,13,7).
+called_program_i(13,1,13,2).
+called_program_i(13,4,13,5).
+called_program_i(13,7,13,3).
+sdt_map_i(12,'LinkList.LinkItem',[ 26,2,2 ]).
